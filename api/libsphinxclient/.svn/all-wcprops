@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2399/trunk/api/libsphinxclient
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1536/trunk/api/libsphinxclient/configure
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1375/trunk/api/libsphinxclient/test.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1536/trunk/api/libsphinxclient/Makefile.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1536/trunk/api/libsphinxclient/configure.in
+END
+sphinxclient_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1536/trunk/api/libsphinxclient/sphinxclient_config.h.in
+END
+sphinxclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2399/trunk/api/libsphinxclient/sphinxclient.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1536/trunk/api/libsphinxclient/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1536/trunk/api/libsphinxclient/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1375/trunk/api/libsphinxclient/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1536/trunk/api/libsphinxclient/ltmain.sh
+END
+sphinxclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2376/trunk/api/libsphinxclient/sphinxclient.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2399/trunk/api/libsphinxclient/test.c
+END
+libsphinxclient.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1375/trunk/api/libsphinxclient/libsphinxclient.vcproj
+END
+build.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1375/trunk/api/libsphinxclient/build.mk
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1375/trunk/api/libsphinxclient/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1375/trunk/api/libsphinxclient/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1536/trunk/api/libsphinxclient/missing
+END
+test.sln
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2268/trunk/api/libsphinxclient/test.sln
+END
+buildconf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1375/trunk/api/libsphinxclient/buildconf.sh
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1536/trunk/api/libsphinxclient/install-sh
+END

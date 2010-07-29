@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2399/trunk/api
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2081/trunk/api/test.php
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2081/trunk/api/test.py
+END
+test2.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/910/trunk/api/test2.php
+END
+test2.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/489/trunk/api/test2.py
+END
+sphinxapi.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2376/trunk/api/sphinxapi.php
+END
+sphinxapi.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2376/trunk/api/sphinxapi.py
+END

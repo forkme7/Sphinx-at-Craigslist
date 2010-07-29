@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2217/trunk/test/test_108
+END
+model.bin
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2217/trunk/test/test_108/model.bin
+END
+data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2217/trunk/test/test_108/data.xml
+END
+data2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2217/trunk/test/test_108/data2.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2217/trunk/test/test_108/test.xml
+END

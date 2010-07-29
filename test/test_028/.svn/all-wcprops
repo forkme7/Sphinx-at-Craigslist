@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2177/trunk/test/test_028
+END
+model.dict
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2177/trunk/test/test_028/model.dict
+END
+test.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2177/trunk/test/test_028/test.inc
+END
+model.aff
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2177/trunk/test/test_028/model.aff
+END
+model.spell
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2177/trunk/test/test_028/model.spell
+END

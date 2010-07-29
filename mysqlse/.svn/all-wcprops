@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2391/trunk/mysqlse
+END
+make-patch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1428/trunk/mysqlse/make-patch.sh
+END
+sphinx.5.0.22.diff
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/293/trunk/mysqlse/sphinx.5.0.22.diff
+END
+ha_sphinx.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2391/trunk/mysqlse/ha_sphinx.cc
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2389/trunk/mysqlse/INSTALL
+END
+snippets_udf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2153/trunk/mysqlse/snippets_udf.cc
+END
+ha_sphinx.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2379/trunk/mysqlse/ha_sphinx.h
+END
+gen_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/293/trunk/mysqlse/gen_data.php
+END
+sphinx.5.0.27.diff
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/519/trunk/mysqlse/sphinx.5.0.27.diff
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1695/trunk/mysqlse/Makefile.am
+END
+sphinx.5.0.37.diff
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1696/trunk/mysqlse/sphinx.5.0.37.diff
+END
+sphinx.5.0.91.diff
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2388/trunk/mysqlse/sphinx.5.0.91.diff
+END
+plug.in
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/293/trunk/mysqlse/plug.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1149/trunk/mysqlse/CMakeLists.txt
+END

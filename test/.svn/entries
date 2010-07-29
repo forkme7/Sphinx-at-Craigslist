@@ -1,0 +1,869 @@
+10
+
+dir
+2421
+http://sphinxsearch.googlecode.com/svn/trunk/test
+http://sphinxsearch.googlecode.com/svn
+
+
+
+2010-07-19T16:18:39.708574Z
+2419
+shodan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3dc63b7a-4a1c-11de-898f-4722afa3338a
+
+wordforms.txt
+file
+
+
+
+
+2010-05-19T15:34:52.155970Z
+e1314640dd69752edc25520a49feb9a2
+2009-01-30T19:45:22.361971Z
+1673
+shodan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+84
+
+test_130
+dir
+
+test_050
+dir
+
+test_051
+dir
+
+test_052
+dir
+
+test_053
+dir
+
+test_054
+dir
+
+test_055
+dir
+
+test_056
+dir
+
+test_057
+dir
+
+test_058
+dir
+
+test_059
+dir
+
+synonyms.txt
+file
+
+
+
+
+2010-05-19T15:34:52.155970Z
+84a7ef57554360b2c2ffab596f1dcfae
+2008-03-01T00:22:13.447731Z
+1184
+glook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69
+
+stopwords.txt
+file
+
+
+
+
+2010-05-19T15:34:52.155970Z
+9da5d34ab08d37fbb7ecf5940bde56da
+2008-07-03T21:01:34.985404Z
+1322
+shodan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+
+html_120.txt
+file
+
+
+
+
+2010-06-01T15:14:07.522019Z
+1fcc8d1680e9bdd934cb0ff5cffef09f
+2010-06-01T05:31:07.369673Z
+2312
+tomat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+71
+
+test_060
+dir
+
+test_061
+dir
+
+stopwords_121.txt
+file
+
+
+
+
+2010-06-03T16:29:59.542027Z
+34ec78fcc91ffb1e54cd85e4a0924332
+2010-06-02T05:37:28.970391Z
+2317
+tomat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+test_062
+dir
+
+test_063
+dir
+
+test_064
+dir
+
+settings.inc
+file
+
+
+
+
+2010-07-08T21:37:16.179585Z
+0137f47a1ee3baa48124801d18454352
+2010-07-08T13:32:21.430454Z
+2393
+klirichek
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2991
+
+test_065
+dir
+
+test_066
+dir
+
+test_067
+dir
+
+test_068
+dir
+
+test_069
+dir
+
+ubertest.php
+file
+
+
+
+
+2010-07-29T16:33:52.222732Z
+effec4b04ad5aa89b14a709220c15c5e
+2010-07-18T14:56:56.338399Z
+2404
+klirichek
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6979
+
+test_070
+dir
+
+test_071
+dir
+
+test_072
+dir
+
+test_073
+dir
+
+test_074
+dir
+
+test_075
+dir
+
+test_076
+dir
+
+test_077
+dir
+
+test_078
+dir
+
+test_079
+dir
+
+clean.sh
+file
+
+
+
+
+2010-05-19T15:34:52.155970Z
+e186bbbbee9a9da837af36d484d65c44
+2010-01-13T12:54:56.070741Z
+2173
+shodan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+310
+
+test_001
+dir
+
+test_002
+dir
+
+test_003
+dir
+
+test_004
+dir
+
+test_005
+dir
+
+test_006
+dir
+
+test_007
+dir
+
+bench.php
+file
+
+
+
+
+2010-07-02T16:15:13.706601Z
+25217d0b237c7a81a054273436968833
+2010-07-02T12:04:59.532343Z
+2382
+tomat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14576
+
+test_008
+dir
+
+test_080
+dir
+
+test_009
+dir
+
+test_081
+dir
+
+test_082
+dir
+
+test_083
+dir
+
+test_084
+dir
+
+test_085
+dir
+
+test_086
+dir
+
+test_087
+dir
+
+test_088
+dir
+
+test_089
+dir
+
+test_010
+dir
+
+test_011
+dir
+
+test_012
+dir
+
+test_013
+dir
+
+test_014
+dir
+
+test_015
+dir
+
+test_016
+dir
+
+test_017
+dir
+
+test_018
+dir
+
+test_090
+dir
+
+test_019
+dir
+
+test_091
+dir
+
+test_092
+dir
+
+test_093
+dir
+
+test_094
+dir
+
+test_095
+dir
+
+Makefile
+file
+
+
+
+
+2010-05-19T15:34:52.155970Z
+4d66729c4e8c6ec512336661aad84b6a
+2007-12-11T17:22:42.078912Z
+979
+shodan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+176
+
+test_096
+dir
+
+test_097
+dir
+
+test_098
+dir
+
+test_099
+dir
+
+test_100
+dir
+
+test_101
+dir
+
+test_020
+dir
+
+test_102
+dir
+
+test_021
+dir
+
+test_022
+dir
+
+test_103
+dir
+
+test_104
+dir
+
+test_023
+dir
+
+test_105
+dir
+
+test_024
+dir
+
+test_025
+dir
+
+test_106
+dir
+
+test_107
+dir
+
+test_026
+dir
+
+test_027
+dir
+
+test_108
+dir
+
+test_028
+dir
+
+test_109
+dir
+
+test_029
+dir
+
+helpers.inc
+file
+
+
+
+
+2010-07-29T16:33:52.222732Z
+ca8082814bd2c392752ec5dd5c7b55d3
+2010-07-18T14:56:56.338399Z
+2404
+klirichek
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56544
+
+bench
+dir
+
+test_110
+dir
+
+test_030
+dir
+
+test_111
+dir
+
+test_031
+dir
+
+test_112
+dir
+
+test_032
+dir
+
+test_113
+dir
+
+test_033
+dir
+
+test_114
+dir
+
+test_115
+dir
+
+test_034
+dir
+
+test_116
+dir
+
+test_035
+dir
+
+test_117
+dir
+
+test_036
+dir
+
+test_037
+dir
+
+test_118
+dir
+
+test_038
+dir
+
+data
+dir
+
+test_119
+dir
+
+test_039
+dir
+
+bench-results
+dir
+
+clean.cmd
+file
+
+
+
+
+2010-05-19T15:34:52.159946Z
+85f5a4b2157cf3f81b1678ca68646a3b
+2010-01-13T12:54:56.070741Z
+2173
+shodan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+361
+
+test_120
+dir
+
+test_121
+dir
+
+test_040
+dir
+
+test_041
+dir
+
+test_122
+dir
+
+test_042
+dir
+
+test_123
+dir
+
+test_043
+dir
+
+test_124
+dir
+
+test_044
+dir
+
+test_125
+dir
+
+test_045
+dir
+
+test_126
+dir
+
+test_046
+dir
+
+test_127
+dir
+
+test_047
+dir
+
+test_128
+dir
+
+test_048
+dir
+
+test-templates.xml
+file
+
+
+
+
+2010-06-21T19:01:29.549714Z
+72feef0778d922717d0f600a73571899
+2010-06-17T15:58:45.742016Z
+2340
+shodan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1123
+
+test_129
+dir
+
+test_049
+dir
+

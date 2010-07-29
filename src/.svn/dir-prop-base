@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 80
+indexer
+indextool
+search
+searchd
+spelldump
+tests
+Makefile
+.deps
+sphinxversion.h
+
+END

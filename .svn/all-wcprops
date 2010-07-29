@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/2421/trunk
+END
+.hgignore
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1989/trunk/.hgignore
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2421/trunk/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2326/trunk/Makefile.in
+END
+sphinx-min.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2416/trunk/sphinx-min.conf.in
+END
+smoke.sh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1837/trunk/smoke.sh
+END
+example.sql
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2265/trunk/example.sql
+END
+sphinx.spec
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1207/trunk/sphinx.spec
+END
+sphinx.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2418/trunk/sphinx.conf.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2421/trunk/configure.ac
+END
+sphinx.workspace
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2407/trunk/sphinx.workspace
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/367/trunk/INSTALL
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1754/trunk/acinclude.m4
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/75/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1322/trunk/Makefile.am
+END
+sphinx05.sln
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2150/trunk/sphinx05.sln
+END
+sphinx08.sln
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2268/trunk/sphinx08.sln
+END
+buildconf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1553/trunk/buildconf.sh
+END

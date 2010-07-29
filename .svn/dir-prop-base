@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 97
+Makefile
+config.status
+config.log
+sphinx-min.conf.dist
+sphinx.conf.dist
+bin
+junk
+*.suo
+*.ncb
+.hg
+
+END

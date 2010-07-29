@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2397/trunk/test/test_130
+END
+model.bin
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2397/trunk/test/test_130/model.bin
+END
+load_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2397/trunk/test/test_130/load_file.txt
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2397/trunk/test/test_130/test.xml
+END

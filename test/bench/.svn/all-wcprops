@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2382/trunk/test/bench
+END
+match-modes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1824/trunk/test/bench/match-modes.xml
+END
+reset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2382/trunk/test/bench/reset.xml
+END
+quorum-or.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2222/trunk/test/bench/quorum-or.xml
+END
+fullscan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1876/trunk/test/bench/fullscan.xml
+END
+fullscan.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1876/trunk/test/bench/fullscan.php
+END

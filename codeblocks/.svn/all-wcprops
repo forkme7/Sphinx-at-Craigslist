@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2407/trunk/codeblocks
+END
+indexer.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2407/trunk/codeblocks/indexer.cbp
+END
+libsphinx.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2150/trunk/codeblocks/libsphinx.cbp
+END
+tests.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2407/trunk/codeblocks/tests.cbp
+END
+testrt.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2407/trunk/codeblocks/testrt.cbp
+END
+indextool.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2407/trunk/codeblocks/indextool.cbp
+END
+search.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2407/trunk/codeblocks/search.cbp
+END
+spelldump.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2407/trunk/codeblocks/spelldump.cbp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1861/trunk/codeblocks/README.txt
+END
+searchd.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2407/trunk/codeblocks/searchd.cbp
+END

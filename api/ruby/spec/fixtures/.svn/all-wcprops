@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2153/trunk/api/ruby/spec/fixtures
+END
+group_by_day_sort.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/group_by_day_sort.php
+END
+retries_delay.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/retries_delay.php
+END
+group_by_attrpair.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/group_by_attrpair.php
+END
+group_distinct.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/group_distinct.php
+END
+ranking_wordcount.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/ranking_wordcount.php
+END
+filter_exclude.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/filter_exclude.php
+END
+filter_float_range_exclude.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/filter_float_range_exclude.php
+END
+group_by_week.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/group_by_week.php
+END
+ranking_proximity_bm25.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/ranking_proximity_bm25.php
+END
+match_any.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/match_any.php
+END
+excerpt_custom.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/excerpt_custom.php
+END
+group_by_year.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/group_by_year.php
+END
+limits_max.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/limits_max.php
+END
+sort_extended.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/sort_extended.php
+END
+keywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1856/trunk/api/ruby/spec/fixtures/keywords.php
+END
+filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/filters.php
+END
+filter_range_exclude.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/filter_range_exclude.php
+END
+sort_relevance.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/sort_relevance.php
+END
+match_extended.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/match_extended.php
+END
+miltiple_queries.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/miltiple_queries.php
+END
+field_weights.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/field_weights.php
+END
+id_range64.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/id_range64.php
+END
+match_fullscan.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/match_fullscan.php
+END
+filter_ranges.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/filter_ranges.php
+END
+filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/filter.php
+END
+sort_expr.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/sort_expr.php
+END
+filter_range_int64.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1856/trunk/api/ruby/spec/fixtures/filter_range_int64.php
+END
+filter_float_range.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/filter_float_range.php
+END
+update_attributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/update_attributes.php
+END
+set_override.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1856/trunk/api/ruby/spec/fixtures/set_override.php
+END
+update_attributes_mva.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1856/trunk/api/ruby/spec/fixtures/update_attributes_mva.php
+END
+match_boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/match_boolean.php
+END
+group_by_month.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/group_by_month.php
+END
+filters_different.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/filters_different.php
+END
+match_extended2.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/match_extended2.php
+END
+match_phrase.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/match_phrase.php
+END
+default_search_index.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/default_search_index.php
+END
+filter_range.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/filter_range.php
+END
+limits.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/limits.php
+END
+index_weights.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/index_weights.php
+END
+sphinxapi.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2153/trunk/api/ruby/spec/fixtures/sphinxapi.php
+END
+geo_anchor.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/geo_anchor.php
+END
+sort_attr_asc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/sort_attr_asc.php
+END
+limits_cutoff.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/limits_cutoff.php
+END
+id_range.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/id_range.php
+END
+ranking_none.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/ranking_none.php
+END
+default_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/default_search.php
+END
+sort_time_segments.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/sort_time_segments.php
+END
+weights.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/weights.php
+END
+limits_max_cutoff.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/limits_max_cutoff.php
+END
+retries.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/retries.php
+END
+ranking_proximity.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1856/trunk/api/ruby/spec/fixtures/ranking_proximity.php
+END
+excerpt_default.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/excerpt_default.php
+END
+ranking_bm25.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/ranking_bm25.php
+END
+sort_attr_desc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/sort_attr_desc.php
+END
+select.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1856/trunk/api/ruby/spec/fixtures/select.php
+END
+group_by_attr.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/group_by_attr.php
+END
+group_by_day.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/group_by_day.php
+END
+match_all.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/match_all.php
+END
+excerpt_flags.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/excerpt_flags.php
+END
+max_query_time.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1277/trunk/api/ruby/spec/fixtures/max_query_time.php
+END

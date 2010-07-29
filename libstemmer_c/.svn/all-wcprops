@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2326/trunk/libstemmer_c
+END
+libstemmer_c.sln
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/648/trunk/libstemmer_c/libstemmer_c.sln
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2326/trunk/libstemmer_c/Makefile.in
+END
+libstemmer_c.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/648/trunk/libstemmer_c/libstemmer_c.vcproj
+END
+mkinc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/705/trunk/libstemmer_c/mkinc.mak
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/647/trunk/libstemmer_c/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/705/trunk/libstemmer_c/README
+END

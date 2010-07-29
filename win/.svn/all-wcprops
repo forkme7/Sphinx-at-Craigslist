@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2330/trunk/win
+END
+search08.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2240/trunk/win/search08.vcproj
+END
+spelldump08.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2240/trunk/win/spelldump08.vcproj
+END
+indextool08.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2240/trunk/win/indextool08.vcproj
+END
+searchd05.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1044/trunk/win/searchd05.vcproj
+END
+searchd08.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2240/trunk/win/searchd08.vcproj
+END
+testrt05.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2150/trunk/win/testrt05.vcproj
+END
+testrt08.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2280/trunk/win/testrt08.vcproj
+END
+indexer05.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1044/trunk/win/indexer05.vcproj
+END
+libsphinx05.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2150/trunk/win/libsphinx05.vcproj
+END
+indexer08.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2240/trunk/win/indexer08.vcproj
+END
+tests05.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1044/trunk/win/tests05.vcproj
+END
+libsphinx08.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2240/trunk/win/libsphinx08.vcproj
+END
+tests08.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2240/trunk/win/tests08.vcproj
+END
+search05.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1044/trunk/win/search05.vcproj
+END
+indextool05.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1594/trunk/win/indextool05.vcproj
+END
+spelldump05.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1056/trunk/win/spelldump05.vcproj
+END

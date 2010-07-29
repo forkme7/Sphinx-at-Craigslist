@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2376/trunk/api/ruby
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2081/trunk/api/ruby/test.rb
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1451/trunk/api/ruby/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1450/trunk/api/ruby/README.rdoc
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1277/trunk/api/ruby/init.rb
+END
+sphinx.yml.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1277/trunk/api/ruby/sphinx.yml.tpl
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1277/trunk/api/ruby/install.rb
+END

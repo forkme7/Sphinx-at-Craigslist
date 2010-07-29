@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2421/trunk/doc
+END
+sphinx.css
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/536/trunk/doc/sphinx.css
+END
+html2txt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2381/trunk/doc/html2txt.pl
+END
+sphinx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2421/trunk/doc/sphinx.txt
+END
+sphinx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2421/trunk/doc/sphinx.xml
+END
+internals-index-format.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1671/trunk/doc/internals-index-format.txt
+END
+mk.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2410/trunk/doc/mk.cmd
+END
+sphinx.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2421/trunk/doc/sphinx.html
+END
+internals-coding-standard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2038/trunk/doc/internals-coding-standard.txt
+END

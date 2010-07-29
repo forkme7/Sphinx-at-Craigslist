@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2376/trunk/api/java
+END
+mkdoc.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/900/trunk/api/java/mkdoc.cmd
+END
+test.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2081/trunk/api/java/test.java
+END
+SphinxWordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1172/trunk/api/java/SphinxWordInfo.java
+END
+SphinxMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1172/trunk/api/java/SphinxMatch.java
+END
+MANIFEST.MF
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/897/trunk/api/java/MANIFEST.MF
+END
+SphinxResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1172/trunk/api/java/SphinxResult.java
+END
+SphinxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1172/trunk/api/java/SphinxException.java
+END
+SphinxClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2376/trunk/api/java/SphinxClient.java
+END
+mk.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/900/trunk/api/java/mk.cmd
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/909/trunk/api/java/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1315/trunk/api/java/Makefile
+END

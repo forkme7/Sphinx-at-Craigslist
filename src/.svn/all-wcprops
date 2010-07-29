@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2421/trunk/src
+END
+sphinxexpr.y
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2329/trunk/src/sphinxexpr.y
+END
+yysphinxexpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2328/trunk/src/yysphinxexpr.h
+END
+sphinxsearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2375/trunk/src/sphinxsearch.cpp
+END
+sphinxutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2293/trunk/src/sphinxutils.h
+END
+sphinxquery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2352/trunk/src/sphinxquery.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2417/trunk/src/Makefile.in
+END
+tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2419/trunk/src/tests.cpp
+END
+sphinxtimers.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2153/trunk/src/sphinxtimers.h
+END
+svnxrev.pl
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1838/trunk/src/svnxrev.pl
+END
+sphinxexcerpt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2397/trunk/src/sphinxexcerpt.cpp
+END
+search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2408/trunk/src/search.cpp
+END
+indextool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2343/trunk/src/indextool.cpp
+END
+yysphinxql.patch
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2332/trunk/src/yysphinxql.patch
+END
+sphinxstem.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2153/trunk/src/sphinxstem.h
+END
+sphinxexpr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2329/trunk/src/sphinxexpr.cpp
+END
+sphinxstemru.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2246/trunk/src/sphinxstemru.cpp
+END
+sphinxstemru.inl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/555/trunk/src/sphinxstemru.inl
+END
+sphinxcustomsort.inl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/703/trunk/src/sphinxcustomsort.inl
+END
+sphinx.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2421/trunk/src/sphinx.h
+END
+sphinxrt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2417/trunk/src/sphinxrt.cpp
+END
+sphinxql.l
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2372/trunk/src/sphinxql.l
+END
+sphinxfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2308/trunk/src/sphinxfilter.cpp
+END
+sphinxsort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2368/trunk/src/sphinxsort.cpp
+END
+yy.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2332/trunk/src/yy.cmd
+END
+srcxrev.pl
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1859/trunk/src/srcxrev.pl
+END
+sphinxstemen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2153/trunk/src/sphinxstemen.cpp
+END
+yysphinxql.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2372/trunk/src/yysphinxql.c
+END
+svnxrev.wsf
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1522/trunk/src/svnxrev.wsf
+END
+sphinxint.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2371/trunk/src/sphinxint.h
+END
+sphinxstd.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2344/trunk/src/sphinxstd.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/374/trunk/src/md5.h
+END
+sphinxutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2395/trunk/src/sphinxutils.cpp
+END
+yysphinxselect.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1686/trunk/src/yysphinxselect.c
+END
+sphinxql.y
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2372/trunk/src/sphinxql.y
+END
+yysphinxql.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2372/trunk/src/yysphinxql.h
+END
+indexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2325/trunk/src/indexer.cpp
+END
+llsphinxql.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2372/trunk/src/llsphinxql.c
+END
+sphinxstemcz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2246/trunk/src/sphinxstemcz.cpp
+END
+sphinxselect.y
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1686/trunk/src/sphinxselect.y
+END
+yysphinxselect.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1686/trunk/src/yysphinxselect.h
+END
+svnxrev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2288/trunk/src/svnxrev.sh
+END
+sphinxquery.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2256/trunk/src/sphinxquery.h
+END
+sphinxsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2246/trunk/src/sphinxsearch.h
+END
+spelldump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2247/trunk/src/spelldump.cpp
+END
+sphinxexcerpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2387/trunk/src/sphinxexcerpt.h
+END
+searchd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2418/trunk/src/searchd.cpp
+END
+sphinx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2415/trunk/src/sphinx.cpp
+END
+sphinxmetaphone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2247/trunk/src/sphinxmetaphone.cpp
+END
+sphinxexpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2153/trunk/src/sphinxexpr.h
+END
+sphinxsoundex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2193/trunk/src/sphinxsoundex.cpp
+END
+yysphinxquery.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2352/trunk/src/yysphinxquery.c
+END
+sphinxrt.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2321/trunk/src/sphinxrt.h
+END
+sphinxstd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2327/trunk/src/sphinxstd.cpp
+END
+sphinxfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2259/trunk/src/sphinxfilter.h
+END
+testrt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2343/trunk/src/testrt.cpp
+END
+sphinxquery.y
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2352/trunk/src/sphinxquery.y
+END
+md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/374/trunk/src/md5.cpp
+END
+yysphinxquery.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2256/trunk/src/yysphinxquery.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2417/trunk/src/Makefile.am
+END
+yysphinxexpr.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2329/trunk/src/yysphinxexpr.c
+END
+svnxrev.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2266/trunk/src/svnxrev.cmd
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2419/trunk/test
+END
+wordforms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1673/trunk/test/wordforms.txt
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1322/trunk/test/stopwords.txt
+END
+ubertest.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2404/trunk/test/ubertest.php
+END
+clean.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2173/trunk/test/clean.cmd
+END
+html_120.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2312/trunk/test/html_120.txt
+END
+bench.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2382/trunk/test/bench.php
+END
+stopwords_121.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2317/trunk/test/stopwords_121.txt
+END
+settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2393/trunk/test/settings.inc
+END
+helpers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2404/trunk/test/helpers.inc
+END
+test-templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2340/trunk/test/test-templates.xml
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2173/trunk/test/clean.sh
+END
+synonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1184/trunk/test/synonyms.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/979/trunk/test/Makefile
+END
