@@ -11039,6 +11039,7 @@ int WINAPI ServiceMain ( int argc, char **argv )
 	g_iMaxFilterValues = hSearchd.GetInt ( "max_filter_values", g_iMaxFilterValues );
 	g_iMaxBatchQueries = hSearchd.GetInt ( "max_batch_queries", g_iMaxBatchQueries );
 	g_iDistThreads = hSearchd.GetInt ( "dist_threads", g_iDistThreads );
+	g_iPreforkChildren = hSearchd.GetInt ( "prefork", g_iPreforkChildren );
 
 	if ( hSearchd("workers") )
 	{
