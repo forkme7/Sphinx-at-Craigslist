@@ -8,8 +8,10 @@ Contact
 -------
 
 Jeremy Zawodny
-http://blog.zawodny.com/
 
-Jeremy@Zawodny.com
-jzawodn@craigslist.org
+<http://blog.zawodny.com/>
+
+Personal: Jeremy@Zawodny.com
+
+Work: jzawodn@craigslist.org
 
